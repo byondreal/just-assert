@@ -1,6 +1,6 @@
 {
   "name": "just-assert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The smallest possible assertion library with 0 extra features",
   "author": {
     "name": "ByondReal Dev",
