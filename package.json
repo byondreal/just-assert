@@ -1,0 +1,38 @@
+{
+  "name": "just-assert",
+  "version": "1.0.0"
+  "description": "The smallest possible assertion library with 0 extra features",
+  "author": {
+    "name": "ByondReal Dev",
+    "email": "dev@byondreal.net"
+  },
+  "bugs": {
+    "url": "https://github.com/byondreal/just-assert/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "https://github.com/byondreal/just-assert",
+  "keywords": [
+    "assert",
+    "assertion",
+    "smallest",
+    "browserify"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "byondreal",
+      "email": "team@byondreal.net"
+    }
+  ],
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byondreal/just-assert.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+}
